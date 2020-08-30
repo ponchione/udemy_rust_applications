@@ -22,13 +22,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6e9534f-381e-469b-b015-6536edacd512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/udemy_rust_applications.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/http/method.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/http/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/http/request.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +101,7 @@
       <updated>1598729723994</updated>
       <workItem from="1598729725210" duration="10409000" />
       <workItem from="1598750126672" duration="5000" />
-      <workItem from="1598796164967" duration="578000" />
+      <workItem from="1598796164967" duration="1029000" />
     </task>
     <servers />
   </component>
